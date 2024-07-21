@@ -1,5 +1,4 @@
 version : "3.3"
-
 services :
   web :
      image : baliram123giri/my-node-app:latest
