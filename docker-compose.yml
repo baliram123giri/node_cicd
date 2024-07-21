@@ -4,4 +4,4 @@ services :
   web :
      image : baliram123giri/my-node-app:latest
      ports : 
-         - "3000:3000"
+         - "4000:4000"
