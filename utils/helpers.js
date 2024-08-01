@@ -47,6 +47,7 @@ async function deleteCloudinaryFile(id, res) {
     })
 
 }
+
 function errorHandler(res, err) {
     return res.status(500).json({ message: err?.message || err })
 }
